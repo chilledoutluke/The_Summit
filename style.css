@@ -50,3 +50,14 @@ a:hover {
   cursor: pointer;
   box-shadow: 5px 5px lightblue;
 }
+
+.activity:hover {
+    background-color: #195ac4;
+    font-size: 17px;
+}
+
+.activity:active {
+    box-shadow: none;
+    font-size: 18px;
+    border-radius: 17px;
+}
